@@ -42,6 +42,6 @@ Sender → Kernel Queue → Receiver
 Messages are stored in kernel space and copied
 between processes using mq_send() and mq_receive().
 
-## Architecture
+## Test 
 
-![Message Queue Diagram](images/diagram.png)
+![Message Queue Diagram](images/test_pic.png)
